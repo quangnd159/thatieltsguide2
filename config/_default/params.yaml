@@ -65,7 +65,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/quangnd159/hugo-documentation-theme'
+    url: 'https://github.com/quangnd159/thatieltsguide2'
     content_dir: content
     branch: main
   feedback:
