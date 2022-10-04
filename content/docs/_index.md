@@ -1,6 +1,7 @@
 ---
 title: Docs
 type: book # Do not modify.
+tag: test
 toc: false
 ---
 
